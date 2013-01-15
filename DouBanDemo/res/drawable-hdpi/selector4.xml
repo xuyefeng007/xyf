@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+ <!-- 按下时候的背景图 -->
+ <item android:state_pressed="true" android:drawable="@drawable/yindao_button2" />
+ <!-- 普通状态的背景图 -->
+ <item android:drawable="@drawable/yindao_button" />  
+</selector>

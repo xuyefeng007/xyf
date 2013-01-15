@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">DouBanDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="text1">请输入查询图书的ID：</string>
+    <string name="text2">如1220562</string>
+   	<string name="text3">欢迎使用豆瓣查书！</string>
+   	<string name="load">加载中······</string>
+   	<string name="zhaiyao">摘要：</string>
+   	<string name="key">关键字：</string>
+    
+    <color name="bg_blue">#e1ecf2</color>
+
+</resources>
